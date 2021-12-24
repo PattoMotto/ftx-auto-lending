@@ -1,0 +1,1 @@
+cron_job: python -u auto_lending_bot.py

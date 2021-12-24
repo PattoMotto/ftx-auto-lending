@@ -14,7 +14,7 @@ example_key,example_secret,subaccount_name,USD,0
 
 
 ## Using the release EXE
-1) Download from the release
+1) Download from the [release](https://github.com/PattoMotto/ftx-auto-lending/releases)
 2) Setup the bot `lending.csv`
 
 ```
