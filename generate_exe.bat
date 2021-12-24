@@ -1,0 +1,1 @@
+pyinstaller auto_lending_bot.py --onefile --icon favicon.ico
