@@ -1,5 +1,8 @@
 # FTX auto lending bot
 
+## Get the API key
+[Check my article for step by step + screenshots](https://pattomotto.medium.com/how-to-create-api-key-for-ftx-exchange-bfc63bc040b1)
+
 ## Setup & Run
 1) Install python 3
 2) Install dependency `pip install -r requirements.txt`
