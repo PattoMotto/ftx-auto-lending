@@ -26,8 +26,10 @@ example_key,example_secret,subaccount_name,USD,0
 
 
 ## Send me a tip
+```
 BTC(SegWit) bc1qm7ktthfyeghpmdqjcnumfxse4d8h0g3pgujxr6
 ETH 0x4f82D297d278e82c799ebbc29B12b91166BF5A69
 MATIC 0x4f82D297d278e82c799ebbc29B12b91166BF5A69
 BSC 0x4f82D297d278e82c799ebbc29B12b91166BF5A69
 Solana 7qkzM4vEcqd919bXkhW9cmF3iyQM1aD5HjZrRcQz9Bnt
+```
